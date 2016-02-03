@@ -1,2 +1,2 @@
-# http://flash.github.io
+# flash.github.io
 my group websites
